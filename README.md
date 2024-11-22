@@ -2,7 +2,7 @@
 
 **Título del curso:** Curso de diseño y prototipado con Figma
 
-**Fecha de impartición:** 22 de noviembre.
+**Fecha de impartición:** 23 de noviembre.
 
 **Hora de inicio y finalización:** 15:00-18:00.
 
